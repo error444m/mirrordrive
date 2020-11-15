@@ -19,3 +19,4 @@ cp sample_config.py config.py
 python bot.py
 ```
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=error444m/mirrordrive)
