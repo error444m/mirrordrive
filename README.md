@@ -18,4 +18,4 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-(https://heroku.com/deploy?template=https://github.com/error444m/mirrordrive.git)
+
