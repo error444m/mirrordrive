@@ -5,9 +5,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **My Features**:
 
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
-
-👉 Upload as file from any HTTP link
+Download Files Form Ur Link
 
 ### Installation
 
@@ -15,7 +13,6 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-URL-Uploader/tree/master)
 
 **Thx For Using Bot
 
@@ -35,9 +32,8 @@ python bot.py
 
 ## Credits, and Thanks to
 
-* [@SpEcHlDe](https://telegram.dog/)
-* [Dan Tès](https://telegram.dog/) for his )
-* [Yoily](https://telegram.dog) for his [Error404FoundBot](https://telegram.dog/Error404FoundBot)
+
+* (https://telegram.dog) for his [Error404FoundBot](https://telegram.dog/Error404FoundBot)
 
 - For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/ErrorBinnersOfficial)
 
