@@ -1,7 +1,4 @@
-## URL Uploader Bot
----
-
-An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
+## ErrorUrlUploaderBot
 
 **My Features**:
 
@@ -21,12 +18,3 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-
-## Credits, and Thanks to
-
-
-* (https://telegram.dog) for his [Error404FoundBot](https://telegram.dog/Error404FoundBot)
-
-
-#### LICENSE
-- GPLv3
